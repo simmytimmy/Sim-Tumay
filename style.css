@@ -1,0 +1,17 @@
+h1 {
+color: #5a32a8;
+}
+
+#about {
+	text-align: right;
+}
+
+.list {
+	color: #32a883;
+}
+
+#picture {
+	position: absolute;
+	top: 10px;
+	left: 400px;
+}
